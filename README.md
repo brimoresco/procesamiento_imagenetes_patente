@@ -1,0 +1,2 @@
+# procesamiento_imagenetes_patente
+pdi_ejercicio2
